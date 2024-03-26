@@ -8,3 +8,5 @@
 - **MERGE 이용해서 튜닝하기**: 💻[코드 예제 및 개념](https://www.notion.so/82-MERGE-a668c8e85a82401f8370312a6b884b8f)
 - **UPDATE LOCK**: 💻[코드 예제 및 개념](https://www.notion.so/83-LOCK-15c8c92bf1634d6a8e0f1639898696db)
 - **반드시 알아야 할 column 변경 명령어**: 💻[코드 예제 및 개념](https://www.notion.so/93-CREATE-TABLE-f4d1f8466e844e60b7a54327b3612494)
+- **임시 테이블 생성하기**: 💻[코드 예제 및 개념](https://www.notion.so/94-CREATE-TEMPORARY-TABLE-366995f5486344028cea3e32db068ac2)
+- **SQL 튜닝 및 index 사용하기**: 💻[코드 예제 및 개념](https://www.notion.so/97-INDEX-54c21fcd8c704fa19d800e1ee1896045)
