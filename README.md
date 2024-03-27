@@ -20,7 +20,7 @@
 - **임시 테이블 생성**: 💻[코드 예제 및 개념](https://www.notion.so/94-CREATE-TEMPORARY-TABLE-366995f5486344028cea3e32db068ac2)
 - **SQL 튜닝 및 index 활용**: 💻[코드 예제 및 개념](https://www.notion.so/97-INDEX-54c21fcd8c704fa19d800e1ee1896045)
 - **Sequence 번호 관리**: 💻[코드 예제 및 개념](https://www.notion.so/98-SEQUENCE-85ccbc7ca3714bac869edb2afcdca5b8)
-
+- **데이터 복구하기 (flashback query)**: 💻[코드 예제 및 개념]()
 
 ## PL/SQL
 
