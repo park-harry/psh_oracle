@@ -2,6 +2,13 @@
 
 ![image](https://github.com/park-harry/psh_oracle/assets/83077836/2698caa4-5e04-458e-8ee2-f719a2875f23)
 
+## 오라클 관리 
+
+
+## 오라클 백업 및 복구 
+
+## RAC 
+
 
 ## SQL 
 
@@ -11,3 +18,17 @@
 - **임시 테이블 생성하기**: 💻[코드 예제 및 개념](https://www.notion.so/94-CREATE-TEMPORARY-TABLE-366995f5486344028cea3e32db068ac2)
 - **SQL 튜닝 및 index 사용하기**: 💻[코드 예제 및 개념](https://www.notion.so/97-INDEX-54c21fcd8c704fa19d800e1ee1896045)
 - **Sequence 번호 관리하기**: 💻[코드 예제 및 개념](https://www.notion.so/98-SEQUENCE-85ccbc7ca3714bac869edb2afcdca5b8)
+
+
+## PL/SQL
+
+
+## SQL 튜닝 
+
+
+## Linux 
+
+
+
+
+
