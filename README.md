@@ -9,17 +9,17 @@
 
 ### DBA/DB engineer가 반드시 알아야 할 DB 관리 기술 
 
-## 오라클 백업 및 복구 
-### 백업 및 복구 기술 59가지 : 👨‍💻[목차]()
+## ${\textsf{\color{blue}오라클 백업 및 복구}}$	
+### 백업 및 복구 기술 59가지 : 👨‍💻[목차](https://www.notion.so/9d59c56ef0eb4f5db3851b826a3c1786)
 
 ### DBA/DB engineer가 반드시 알아야 할 백업/복구 기술 
 
-## RAC 
+## ${\textsf{\color{blue}RAC}}$	
 
-## 설치 
+## ${\textsf{\color{blue}설치}}$	
 
 
-## SQL 
+## ${\textsf{\color{blue}SQL}}$	
 ### SQL 기술 110가지 : 👨‍💻[목차](https://www.notion.so/SQL-4ca77ee7394040b2b16fa4212cbe985a)
 
 ### DBA/DB engineer가 반드시 알아야 할 SQL 기술 
@@ -31,17 +31,17 @@
 - **Sequence 번호 관리**: 💻[코드 예제 및 개념](https://www.notion.so/98-SEQUENCE-85ccbc7ca3714bac869edb2afcdca5b8)
 - **데이터 복구하기 (flashback query)**: 💻[코드 예제 및 개념]()
 
-## PL/SQL
+## ${\textsf{\color{blue}PL/SQL}}$	
 ### PL/SQL 기술 94가지 : 👨‍💻[목차](https://www.notion.so/PL-SQL-cc0d87a31bed4aceab705a8bdecbc242)
 
 ### DBA/DB engineer가 반드시 알아야 할 PL/SQL 기술 
 
-## SQL 튜닝 
+## ${\textsf{\color{blue}SQL 튜닝}}$	
 ### SQL 튜닝 기술 88가지 : 👨‍💻[목차](https://www.notion.so/SQL-533bb3d04bae4cd7abfe27f3b24a91b9)
 
 ### DBA/DB engineer가 반드시 알아야 할 SQL 튜닝 기술 
 
-## Linux/Hadoop 
+## ${\textsf{\color{blue}Linux/Hadoop}}$	
 ### Linux/Hadoop  기술 83가지 : 👨‍💻[목차](https://www.notion.so/Linux-Hadoop-4f6bb1189f5c4920ae258080788a088e)
 
 ### DBA/DB engineer가 반드시 알아야 할 Linux/Hadoop 기술 
