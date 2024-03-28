@@ -17,7 +17,7 @@
 ## SQL 
 ### SQL 기술 110가지 : 👨‍💻[목차](https://www.notion.so/SQL-4ca77ee7394040b2b16fa4212cbe985a)
 
-### DBA/DB engineer를 위한 팁
+### DBA/DB engineer가 반드시 알아야 할 SQL 기술 
 - **MERGE문 이용해서 튜닝**: 💻[코드 예제 및 개념](https://www.notion.so/82-MERGE-a668c8e85a82401f8370312a6b884b8f)
 - **UPDATE LOCK**: 💻[코드 예제 및 개념](https://www.notion.so/83-LOCK-15c8c92bf1634d6a8e0f1639898696db)
 - **반드시 알아야 할 column 변경 명령어**: 💻[코드 예제 및 개념](https://www.notion.so/93-CREATE-TABLE-f4d1f8466e844e60b7a54327b3612494)
