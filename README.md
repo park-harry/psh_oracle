@@ -4,7 +4,7 @@
 ## Trouble Shooting 
 
 
-## 오라클 DB 관리 
+## ${\textsf{\color{오라클 DB 관리}Green}}$	
 ### DB 관리 기술 129가지 : 👨‍💻[목차](https://www.notion.so/d6170d74b8a34274a32e0eecfb704dc7)
 
 ### DBA/DB engineer가 반드시 알아야 할 DB 관리 기술 
