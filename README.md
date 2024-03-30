@@ -6,12 +6,12 @@
 
 ## ${\textsf{\color{blue}오라클 DB 관리}}$	
 ### DB 관리 기술 129가지 : 👨‍💻[목차](https://www.notion.so/d6170d74b8a34274a32e0eecfb704dc7)
+
+### DBA/DB engineer가 반드시 알아야 할 DB 관리 기술 
 - **USER level로 export/import**: ⏩[실습](https://www.notion.so/111-user-level-export-import-2cdc4939d24a48bf96a0787e3c45cc57)
 - **TABLESPACE level로 export/import**: ⏩[실습](https://www.notion.so/112-tablespace-level-export-import-390cb002f80d4d13abcb946b25076c46)
 - **DATAPUMP**: ⏩[실습](https://www.notion.so/Special-Data-Pump-af859dbe3a80454b8180c890906887dc)
 - **DB reorg**: ⏩[실습](https://www.notion.so/125-db-reorg-67f0e72955fc418aa32ff4b99214daa1)
-
-### DBA/DB engineer가 반드시 알아야 할 DB 관리 기술 
 
 ## ${\textsf{\color{blue}오라클 백업 및 복구}}$	
 ### 백업 및 복구 기술 59가지 : 👨‍💻[목차](https://www.notion.so/9d59c56ef0eb4f5db3851b826a3c1786)
