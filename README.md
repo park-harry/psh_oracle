@@ -19,6 +19,13 @@
 ### DBA/DB engineer가 반드시 알아야 할 백업/복구 기술 
 
 ## ${\textsf{\color{blue}RAC}}$	
+### RAC 환경에서의 실습 : 👨‍💻[목차](https://www.notion.so/RAC-Real-Application-Cluster-38299e5acc0a40a8b8ae549530b7d69d)
+
+### RAC 환경에서 반드시 알아야 할 백업/복구 기술 
+- **Inactive 상태의 Redo log file의 손상 시 복구**: ⏩[실습](https://www.notion.so/31-RAC-inactive-redo-log-file-dd9d9dd5b4464854937b762eb39e4b92)
+- **Tablespace drop 시 복구**: ⏩[실습](https://www.notion.so/36-RAC-drop-8ffd234a651e480dacb686ea8b70bf22)
+- **SQ enqueue의 원인과 해결 방법**: ⏩[실습](https://www.notion.so/Special-RAC-SQ-enqueue-73402e0d1c324c28b245be7e21399fcf)
+- **HW enqueue의 원인과 해결 방**: ⏩[실습](https://www.notion.so/51-RAC-HW-enqueue-22384cab53444318afee82170ab11880)
 
 ## ${\textsf{\color{blue}설치}}$	
 - **HIVE, MONGODB, SPARK 설치**: 🔧[설치](https://www.notion.so/Special-HIVE-MONGODB-SPARK-f3700cf1a9f048c98ee6b33a641ce4ca)
