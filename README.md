@@ -33,10 +33,11 @@
 
 ## ${\textsf{\color{blue}PL/SQL}}$	
 ### PL/SQL 기술 94가지 : 👨‍💻[목차](https://www.notion.so/PL-SQL-cc0d87a31bed4aceab705a8bdecbc242)
+
+### DBA/DB engineer가 반드시 알아야 할 PL/SQL 기술 
 - **PL/SQL튜닝**: 💻[코드 예제 및 개념](https://www.notion.so/Special-PL-SQL-4e678beb57184c1e9cad0ea0b3b8b610)
 - **SQL 자동화**: 💻[코드 예제 및 개념](https://www.notion.so/Special-SQL-a4fb05b855dc46a78a3ee76844b7a70b)
 - **패키지 코드 암호화 하기**: 💻[코드 예제 및 개념](https://www.notion.so/93-PL-SQL-80ec3a2ec45d4a4fb4218d13a87f1645)
-### DBA/DB engineer가 반드시 알아야 할 PL/SQL 기술 
 
 ## ${\textsf{\color{blue}SQL 튜닝}}$	
 ### SQL 튜닝 기술 88가지 : 👨‍💻[목차](https://www.notion.so/SQL-533bb3d04bae4cd7abfe27f3b24a91b9)
