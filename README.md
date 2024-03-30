@@ -17,7 +17,7 @@
 ## ${\textsf{\color{blue}RAC}}$	
 
 ## ${\textsf{\color{blue}설치}}$	
-
+- **HIVE 설치**: [설치](https://www.notion.so/52-HIVE-fb08ed50383b47efba9f1b43639e1820)
 
 ## ${\textsf{\color{blue}SQL}}$	
 ### SQL 기술 110가지 : 👨‍💻[목차](https://www.notion.so/SQL-4ca77ee7394040b2b16fa4212cbe985a)
@@ -52,8 +52,8 @@
 ### Linux/Hadoop  기술 83가지 : 👨‍💻[목차](https://www.notion.so/Linux-Hadoop-4f6bb1189f5c4920ae258080788a088e)
 
 ### DBA/DB engineer가 반드시 알아야 할 Linux/Hadoop 기술 
-
-
-
+- **scp**: 💻[코드 예제 및 개념](https://www.notion.so/31-scp-dba-5b6fa6d237bf4f27bec8525b1191c80c)
+- **vi 편집기**: 💻[코드 예제 및 개념](https://www.notion.so/32-vi-5285320115a643d6974615147e7db2b4)
+- **스크립트 저장하기**: 💻[코드 예제 및 개념](https://www.notion.so/33-dba-4f15cdfbe72c4134b4d4ac820f74c046)
 
 
