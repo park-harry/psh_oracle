@@ -35,3 +35,8 @@ select to_char(hiredate,'rrrr'), job, sum(sal)
 from emp 
 group by grouping sets(to_char(hiredate,'rrrr'), job)
 order by job asc, to_char(hiredate,'rrrr') desc;
+
+select  to_char(hiredate,'RRRR') 년도,job, to_char(sum(sal),'999,999') 토탈
+from emp 
+group by grouping sets(to_char(hiredate,'RRRR'), (to_char(hiredate,'RRRR'),job),())
+order by 년도;
