@@ -65,3 +65,17 @@ insert into emp52(empno, ename, sal, hiredate)
 문제 4. 우리반 테이블의 empno에 primary key 제약을 거시오. 
 alter table emp18 
 add constraint emp18_empno_pk primary key(empno);
+
+문제 5-1. 우리반 테이블의 email에 check 제약을 거는데 @와 . 을 포함해야지만 이메일이 입력되거나 
+수정될수 있게 하시오. 
+alter table emp18 
+add constraint emp_email_ck check (email like '%@%' and email like '%.%');
+
+문제 5-1. 위의 설정을 하고 나서 아래의 데이터를 업데이트 했을 때 에러가 나는지 확인하시오. 
+update emp18 
+set email= 'aaaaa@gmail'
+where ename = '박성환';
+
+update emp18 
+set email= 'aaaaagmail.com'
+where ename = '박성환';
