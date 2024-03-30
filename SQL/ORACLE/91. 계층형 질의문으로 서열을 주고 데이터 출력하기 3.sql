@@ -26,3 +26,10 @@ start with mgr is null
 connect by prior empno = mgr
 order siblings by hiredate desc;
 
+-- BLAKE 와 BLAKE 의 직속 부하 사원들의 이름과 입사일을 출력하는데 입사일이 최근에 입사한 
+-- 사원부터 출력하시오
+select rpad('  ',level*3)||ename as employee, hiredate
+from emp
+start with ename = 'BLAKE'
+connect by prior empno =mgr
+order siblings by hiredate desc ;
