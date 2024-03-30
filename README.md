@@ -43,7 +43,9 @@
 ### SQL 튜닝 기술 88가지 : 👨‍💻[목차](https://www.notion.so/SQL-533bb3d04bae4cd7abfe27f3b24a91b9)
 
 ### DBA/DB engineer가 반드시 알아야 할 SQL 튜닝 기술 
-
+- **SQL trace**: 💻[코드 예제 및 개념](https://www.notion.so/Special-SQL-trace-b0fb31bb095844bab377e7cbb55ebd66)
+- **Index Scan**: 💻[코드 예제 및 개념](https://www.notion.so/Special-Index-Scan-3c2f192a89544a2294efeb69776e5b6d)
+- 
 ## ${\textsf{\color{blue}Linux/Hadoop}}$	
 ### Linux/Hadoop  기술 83가지 : 👨‍💻[목차](https://www.notion.so/Linux-Hadoop-4f6bb1189f5c4920ae258080788a088e)
 
