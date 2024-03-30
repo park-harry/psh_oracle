@@ -24,7 +24,7 @@
 
 ### DBA/DB engineer가 반드시 알아야 할 SQL 기술 
 - **MERGE문 이용해서 튜닝**: 💻[코드 예제 및 개념](https://www.notion.so/82-MERGE-a668c8e85a82401f8370312a6b884b8f)
-- **UPDATE LOCK**: 💻[코드 예제 및 개념](https://www.notion.so/83-LOCK-15c8c92bf1634d6a8e0f1639898696db)
+- **LOCK의 정의**: 💻[코드 예제 및 개념](https://www.notion.so/83-LOCK-15c8c92bf1634d6a8e0f1639898696db)
 - **반드시 알아야 할 column 변경 명령어**: 💻[코드 예제 및 개념](https://www.notion.so/93-CREATE-TABLE-f4d1f8466e844e60b7a54327b3612494)
 - **임시 테이블 생성**: 💻[코드 예제 및 개념](https://www.notion.so/94-CREATE-TEMPORARY-TABLE-366995f5486344028cea3e32db068ac2)
 - **SQL 튜닝 및 index 활용**: 💻[코드 예제 및 개념](https://www.notion.so/97-INDEX-54c21fcd8c704fa19d800e1ee1896045)
@@ -45,7 +45,9 @@
 ### DBA/DB engineer가 반드시 알아야 할 SQL 튜닝 기술 
 - **SQL trace**: 💻[코드 예제 및 개념](https://www.notion.so/Special-SQL-trace-b0fb31bb095844bab377e7cbb55ebd66)
 - **Index Scan**: 💻[코드 예제 및 개념](https://www.notion.so/Special-Index-Scan-3c2f192a89544a2294efeb69776e5b6d)
-- 
+- **조인 순서**: 💻[코드 예제 및 개념](https://www.notion.so/Special-e225deaa6f234e5c8ec4c83cd6dbb92e)
+- **데이터의 양에 따른 튜닝**: 💻[코드 예제 및 개념](https://www.notion.so/Special-4980b863fdd543bfa9b405a98ea06277)
+
 ## ${\textsf{\color{blue}Linux/Hadoop}}$	
 ### Linux/Hadoop  기술 83가지 : 👨‍💻[목차](https://www.notion.so/Linux-Hadoop-4f6bb1189f5c4920ae258080788a088e)
 
