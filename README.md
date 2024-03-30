@@ -17,6 +17,12 @@
 ### 백업 및 복구 기술 59가지 : 👨‍💻[목차](https://www.notion.so/9d59c56ef0eb4f5db3851b826a3c1786)
 
 ### DBA/DB engineer가 반드시 알아야 할 백업/복구 기술 
+- **Data file 복구**: ⏩[실습](https://www.notion.so/7-data-file-0b7ee15f8fd44f7a9d30f47d09eaf9e7)
+- **Control file 다중화**: ⏩[실습](https://www.notion.so/10-control-file-multiplexing-d43d007c5adf40e28fb53f24111dc589)
+- **Redo log file 다중화**: ⏩[실습](https://www.notion.so/13-redo-log-file-multiplexing-e92396f8e3ef4958867c4de5002e4fb5)
+- **Time Base 불완전 복구**: ⏩[실습](https://www.notion.so/19-time-base-f49e638ef8b34cc5a9669fcdf2eee99c)
+- **RMAN으로 control file 복구**: ⏩[실습](https://www.notion.so/30-RMAN-control-file-54b3678386c7482dbc7aabf65b15ccec)
+- **Data Guard**: ⏩[실습](https://www.notion.so/59-7fce24128259444290623ea0fc3d1f9b)
 
 ## ${\textsf{\color{blue}RAC}}$	
 ### RAC 환경에서의 실습 : 👨‍💻[목차](https://www.notion.so/RAC-Real-Application-Cluster-38299e5acc0a40a8b8ae549530b7d69d)
