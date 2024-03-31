@@ -60,7 +60,7 @@
 ### SQL 튜닝 기술 88가지  👨‍💻[목차](https://www.notion.so/SQL-533bb3d04bae4cd7abfe27f3b24a91b9)
 
 ### DBA/DB engineer가 반드시 알아야 할 SQL 튜닝 기술 
-- **SQL trace** 💻[코드 예제 및 개념](https://www.notion.so/Special-SQL-trace-b0fb31bb095844bab377e7cbb55ebd66)
+- **SQL trace** 💻[코드 예제 및 개념](https://www.notion.so/9-SQL-trace-44f3c0aa8c174b4c8fdf562edc73d3c7)
 - **Index Scan** 💻[코드 예제 및 개념](https://www.notion.so/Special-Index-Scan-3c2f192a89544a2294efeb69776e5b6d)
 - **조인 순서** 💻[코드 예제 및 개념](https://www.notion.so/Special-e225deaa6f234e5c8ec4c83cd6dbb92e)
 - **데이터의 양에 따른 튜닝** 💻[코드 예제 및 개념](https://www.notion.so/Special-4980b863fdd543bfa9b405a98ea06277)
