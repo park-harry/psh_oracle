@@ -1,0 +1,65 @@
+하둡 재시작 시, 하둡 환경 시작시키는 순서 
+1. 리눅스 서버로 접속 (putty 나 모바텀으로 192.168.19.xx → 192.168.19.87 로 접속)
+   => root가 아닌 oracle로 접속한다
+2. 하둡 파일 시스템을 올리고 jps을 실행 ⇒ 6개 나오는지 확인
+start-all.sh
+jps 
+
+jps 6개가 모두 나오지 않았을 때, namenode가 안 떴을 경우 아래의 순서대로 실행하시오. 
+1. 하둡 홈 디렉토리로 이동한다
+cd $HADOOP_HOME
+
+2. 하둡 환경 구성시 파일이 있는 conf 로 이동한다. 
+cd conf 
+
+3. core-site.xml을 연다. 
+vi core-site.xml
+
+<configuration>
+<property>
+    <name>fs.default.name</name>
+    <value>hdfs://localhost:9000</value>
+  </property>
+</configuration>
+
+=> 위의 내용만 두고 나머지는 지운다. 
+
+4. /home/oracle/hadoop/hadoop- 1.2.1/dfs로 이동한다. 
+cd /home/oracle/hadoop/hadoop- 1.2.1/dfs
+
+5. 하둡을 내린다. 
+stop-all.sh
+
+6. name 디렉토리와 data 디렉토리가 있는 그 안의 파일들을 다 지운다. 
+cd name 
+rm -rf * 
+
+cd data
+rm -rf * 
+
+7. 하둡 네임노드를 포맷한다. 
+hadoop namenode -format 
+
+8. 하둡을 시작 시킨다. 
+start-all.sh
+
+9. jps 명령어로 6개가 잘 뜨는지 확인하시오. 
+jps
+
+
+하둡을 시작 시키고 dbeaver 로 하이브에 접속하는 순서 
+1. 리눅스 서버를 먼저 시작 시킨다 
+
+2. oracle 유저로 모바텀에 접속한다. 
+su - oracle
+
+3. 하둡을 시작 시킨다. (jps 했을 때 6개가 다 안 보일 수 있다. 기다려야 한다.) 
+start-all.sh
+
+4. hiverserver2를 시작시키고 10000 포트가 열려있는지 확인한다. 
+hiveserver2 &
+netstat -ant | grep 10000
+
+5. dbeaver로 접속한다. 
+show tables;  
+=> 실행했을 때 테이블이 나오면 정상
