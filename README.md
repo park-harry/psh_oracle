@@ -5,7 +5,7 @@
 - **Hadoop 재시작 및 jps가 다 안 나올 때** 🔑[Solution](https://www.notion.so/Hadoop-jps-267720d3f6734514805fc3e4aad80dc3)
 - **RAC 서버 ip 변경 시 설정 변경** 🔑[Solution](https://www.notion.so/RAC-ip-26c4f8da98e24d38ad4da1ef46fc82f4)
 
-## ${\textsf{\color{blue}오라클 DB 관리}}$	
+## ${\textsf{\color{blue}Oracle DB 관리}}$	
 ### DB 관리 기술 129가지  👨‍💻[목차](https://www.notion.so/d6170d74b8a34274a32e0eecfb704dc7)
 
 ### DBA/DB engineer가 반드시 알아야 할 DB 관리 기술 
@@ -14,7 +14,7 @@
 - **DATAPUMP** ⏩[실습](https://www.notion.so/Special-Data-Pump-af859dbe3a80454b8180c890906887dc)
 - **DB reorg** ⏩[실습](https://www.notion.so/125-db-reorg-67f0e72955fc418aa32ff4b99214daa1)
 
-## ${\textsf{\color{blue}오라클 백업 및 복구}}$	
+## ${\textsf{\color{blue}Oracle 백업 및 복구}}$	
 ### 백업 및 복구 기술 59가지  👨‍💻[목차](https://www.notion.so/9d59c56ef0eb4f5db3851b826a3c1786)
 
 ### DBA/DB engineer가 반드시 알아야 할 백업/복구 기술 
@@ -37,8 +37,8 @@
 
 ## ${\textsf{\color{blue}설치}}$	
 - **HIVE, MONGODB, SPARK 설치** 🔧[설치](https://www.notion.so/Special-HIVE-MONGODB-SPARK-f3700cf1a9f048c98ee6b33a641ce4ca)
-- **오라클 리눅스 8.7 설치** 🔧[설치](https://www.notion.so/5-21c-7b9358c5f6f64dca8f69cbb6edb1c03f)
-- **오라클 리눅스 8.7에 21c 설치** 🔧[설치](https://www.notion.so/6-8-7-21c-e8155e9410a64a7fa2dcd11ff6e55325)
+- **Oracle 리눅스 8.7 설치** 🔧[설치](https://www.notion.so/5-21c-7b9358c5f6f64dca8f69cbb6edb1c03f)
+- **Oracle 리눅스 8.7에 21c 설치** 🔧[설치](https://www.notion.so/6-8-7-21c-e8155e9410a64a7fa2dcd11ff6e55325)
 - **21c용 .bash_profile** 📑[스크립트](https://github.com/park-harry/psh_oracle/blob/main/RAC/21c%EC%9A%A9%20.bash_profile)
 
 ## ${\textsf{\color{blue}SQL}}$	
