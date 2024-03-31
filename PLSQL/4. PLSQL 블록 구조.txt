@@ -1,0 +1,31 @@
+1. declare: 언절 (선택)**
+=> 프로그램에서 사용할 데이터를 담을 변수를 선언하는 부분
+
+2. begin : 실행절, SQL, PL/SQL(필수)
+=> 프로그램의 실행문이 있는 부분
+
+3. exception: 예외처리하는 절 (선택)                  
+=> 프로그램이 순조롭게 잘 수행되기 위해 입력되는 잘못된 데이터에 대한 예외를 두는 부분
+
+4. end : 종료절(필수)
+
+- 코드 부분별 설명 
+set  serveroutput  on 
+=> 반드시 set serveroutput을 on으로 해야 출력하는 패키지를 작동시킬 수 있다. 
+set verify off 
+=> 구, 신 부분이 안나오게 한다. 	
+	accept   p_num1   prompt   '첫번째 숫자를 입력하세요 ~'
+	accept   p_num2  prompt    '두번째 숫자를 입력하세요 ~'
+=> prompt의 정의: 야기 시키다 
+=> p_num1, p_num2 모두 변수 
+
+declare 
+    v_sum       number(10);
+begin
+    v_sum :=  &p_num1 +  &p_num2 ;
+    => := 할당연산자 (오른쪽에 있는 코드가 먼저 수행이 되서 왼쪽에 할당한다.)
+    => & 가 붙은 변수: 치환변수 
+    dbms_output.put_line('총합은 :  '  ||  v_sum );
+    => dbms_output: 오라클의 내장 패키지, 화면에 출력하기 위한 procedure 
+end;
+/
