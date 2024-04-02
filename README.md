@@ -1,6 +1,6 @@
 # Dynamic DB engineer jouney: Oracle & Beyond in CJ OliveNetworks
 
-![image](https://github.com/park-harry/psh_oracle/assets/83077836/2698caa4-5e04-458e-8ee2-f719a2875f23)
+![image](https://github.com/park-harry/psh_oracle/assets/83077836/bab64e82-56d7-426c-a9cf-571d1322c1b3)
 ## ${\textsf{\color{blue}Trouble Shooting}}$	
 - **Hadoop 재시작 및 jps가 다 안 나올 때** 🔑[Solution](https://www.notion.so/Hadoop-jps-267720d3f6734514805fc3e4aad80dc3)
 - **RAC 서버 ip 변경 시 설정 변경** 🔑[Solution](https://www.notion.so/RAC-ip-26c4f8da98e24d38ad4da1ef46fc82f4)
