@@ -34,8 +34,7 @@
 - **Cache Fusion** ⏩[실습](https://www.notion.so/42-RAC-cache-fusion-9619a8f961c1405bb086c8fc175c63f4)
 - **SQ enqueue의 원인과 해결 방법** ⏩[실습](https://www.notion.so/Special-RAC-SQ-enqueue-73402e0d1c324c28b245be7e21399fcf)
 - **HW enqueue의 원인과 해결 방법** ⏩[실습](https://www.notion.so/51-RAC-HW-enqueue-22384cab53444318afee82170ab11880)
-- **﻿Client Road Balancing - sqldeveloper로 RAC 환경 랜덤 접속하기 ![image](https://github.com/park-harry/psh_oracle/assets/83077836/608b2392-4a49-41bd-9213-fff9be49ed65)
-**
+- **Client Road Balancing: sqldeveloper로 RAC 환경 랜덤 접속**  ⏩[실습](https://www.notion.so/64-RAC-43c20182c8cf4f438814153a1ee10232)
 ## ${\textsf{\color{blue}설치}}$	
 - **HIVE, MONGODB, SPARK 설치** 🔧[설치](https://www.notion.so/Special-HIVE-MONGODB-SPARK-f3700cf1a9f048c98ee6b33a641ce4ca)
 - **Oracle 리눅스 8.7 설치** 🔧[설치](https://www.notion.so/5-21c-7b9358c5f6f64dca8f69cbb6edb1c03f)
