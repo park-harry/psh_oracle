@@ -1,4 +1,4 @@
-# Dynamic DB engineer jouney: Oracle & Beyond in CJ OliveNetworks
+# Dynamic DB engineer jouney: Oracle & Beyond
 
 ![image](https://github.com/park-harry/psh_oracle/assets/83077836/bab64e82-56d7-426c-a9cf-571d1322c1b3)
 ## ${\textsf{\color{blue}Trouble Shooting}}$	
