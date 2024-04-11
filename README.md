@@ -40,6 +40,7 @@
 - **Oracle 리눅스 8.7 설치** 🔧[설치](https://www.notion.so/5-21c-7b9358c5f6f64dca8f69cbb6edb1c03f)
 - **Oracle 리눅스 8.7에 21c 설치** 🔧[설치](https://www.notion.so/6-8-7-21c-e8155e9410a64a7fa2dcd11ff6e55325)
 - **21c용 .bash_profile** 📑[스크립트](https://github.com/park-harry/psh_oracle/blob/main/RAC/21c%EC%9A%A9%20.bash_profile)
+- **RAC 설치** 🔧[설치](https://www.notion.so/RAC-fd3dfeb7162d40f28a9825f1cb68d9e0)
 
 ## ${\textsf{\color{blue}SQL}}$	
 ### SQL 기술 110가지  👨‍💻[목차](https://www.notion.so/SQL-4ca77ee7394040b2b16fa4212cbe985a)
